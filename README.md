@@ -97,6 +97,46 @@ receive(msg: Mint){
 
 # It includes
 
----screen shots
+**FunFeed**
+
+<img width="485" alt="1" src="https://github.com/Disha1998/SFS-TON-Readme/assets/69969675/650e45de-29a0-462f-b43c-cb37894cb871">
+
+
+**Create Feed**
+
+<img width="483" alt="2" src="https://github.com/Disha1998/SFS-TON-Readme/assets/69969675/2f6ea252-442a-493c-b674-d61fbeb23cee">
+
+
+**Send a Reward**
+
+<img width="479" alt="4" src="https://github.com/Disha1998/SFS-TON-Readme/assets/69969675/ff6e0090-c876-4a57-9956-2ade8eaabbbf">
+
+
+**Buy FunPass**
+
+<img width="479" alt="4" src="https://github.com/Disha1998/SFS-TON-Readme/assets/69969675/e6aa989c-582f-467e-9505-bdfe51861252">
+
+
+**Token Smash Game**
+
+<img width="482" alt="5" src="https://github.com/Disha1998/SFS-TON-Readme/assets/69969675/4b43c6bb-8df2-4028-88b7-e4ccb9125558">
+
+![5(1)](https://github.com/Disha1998/SFS-TON-Readme/assets/69969675/865217e5-25b7-4b88-948d-8b2722b26866)
+
+![5(2)](https://github.com/Disha1998/SFS-TON-Readme/assets/69969675/b845ac2a-8c74-4ab9-ab24-d1d868443c46)
+
+![5(3)](https://github.com/Disha1998/SFS-TON-Readme/assets/69969675/2f5abc6c-cc1e-4aec-aeb1-d7e01712f9b0)
+
+![5(4)](https://github.com/Disha1998/SFS-TON-Readme/assets/69969675/dc193aa8-f510-4861-b200-d00a9779431f)
+
+
+
+
+**LeaderBoard** 
+
+<img width="479" alt="6" src="https://github.com/Disha1998/SFS-TON-Readme/assets/69969675/eadecc3a-6118-4ca8-aadf-8f9d51ca6ae1">
+
+
+
 
 
