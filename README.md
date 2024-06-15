@@ -16,6 +16,34 @@
 * **Store:** Buy and sell digital assets and NFTs.
 * **Leaderboard:** Track top performers and compete for the top spot.
 
+## Token Smash
+
+* Token Smash is a game within SuperFunSocial where players can engage in fun and rewarding gameplay.
+
+### Known Issues
+  
+ * Swipe-Down Gesture in Telegram Mobile App:
+      * In the Telegram mobile app, the swipe-down gesture is reserved for minimizing/closing the mini app. So when a user tries to perform a swap in the vertically downward     
+             direction, the app attempts to minimize instead. The same works fine in the Telegram web app.
+
+           * **Workaround: Use an upward swipe to perform the swaps. We are looking into the solution for this.**
+
+
+ * Game Room Closure:
+      * When a player leaves the game, sometimes the game room closes after a few seconds. If another player joins the game in this window, it is possible that they may get stuck after the loading bar in the lobby screen is finished loading.
+
+           * **Workaround: Refresh the game. This makes the room get deleted and a new room is created. We are looking into the solution.**
+         
+
+* Asset Store in Development:
+
+   * The asset store is in development, so purchases won’t have any effect on the gameplay currently. This will be ready soon.
+ 
+
+## Instructions
+
+If you’d like to play this in PvP mode, please make sure to join the game as a second player before the timer (indicated by the loading bar at the top of the lobby) runs out.
+
 ## Smart Contracts
 We have created smart contracts for various functionalities including an NFT collection contract, an NFT item contract for FunPass, and a different NFT contract for GameAsset.
 
@@ -67,5 +95,8 @@ receive(msg: Mint){
 * GameAsset :https://testnet.explorer.tonnft.tools/collection/kQCGIRlss8n7ovMDedH_RyMzp8gQ7DcUxHvhaDQ_A2zmjbVT
 
 
+# It includes
+
+---screen shots
 
 
