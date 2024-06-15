@@ -15,3 +15,7 @@
 * **Game:** Engage in entertaining games and earn rewards.
 * **Store:** Buy and sell digital assets and NFTs.
 * **Leaderboard:** Track top performers and compete for the top spot.
+
+## Smart Contracts
+We have created smart contracts for various functionalities including an NFT collection contract, an NFT item contract for FunPass, and a different NFT contract for GameAsset.
+
