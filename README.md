@@ -10,3 +10,8 @@
 ## Solution
 **SuperFunSocial is a social gaming app on Farcaster & Ton where users can earn crypto rewards for creating entertaining content and playing games.**
 
+## Key Features
+* **Feed:** A place to view and share funny content.
+* **Game:** Engage in entertaining games and earn rewards.
+* **Store:** Buy and sell digital assets and NFTs.
+* **Leaderboard:** Track top performers and compete for the top spot.
