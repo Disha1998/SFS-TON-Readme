@@ -19,3 +19,8 @@
 ## Smart Contracts
 We have created smart contracts for various functionalities including an NFT collection contract, an NFT item contract for FunPass, and a different NFT contract for GameAsset.
 
+NftCollection : https://github.com/Disha1998/SFS/blob/main/contracts/nftCollection.tact
+
+NftFunPass : https://github.com/Disha1998/SFS/blob/main/contracts/nft_item.tact
+
+NftGameAsset : 
