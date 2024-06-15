@@ -23,4 +23,14 @@ NftCollection : https://github.com/Disha1998/SFS/blob/main/contracts/nftCollecti
 
 NftFunPass : https://github.com/Disha1998/SFS/blob/main/contracts/nft_item.tact
 
-NftGameAsset : 
+NftGameAsset : https://github.com/Disha1998/SFS/blob/main/contracts/nftItem_gameAsset.tact
+
+## Deployed Contracts:
+
+* NFT Collection Contract Address: https://testnet.tonscan.org/address/EQDzbQTEbzQ-tEeXTrXO0_DKl95T1XvduhNwvsHsDCeLlV-T
+
+* FunPass Contract Address: https://testnet.tonscan.org/address/EQALJcLY4W_2arhetVVz6IQr9EGjDlKbeLYk79PXdI5VGXtO
+
+* GameAsset Contract Address: https://testnet.explorer.tonnft.tools/collection/kQCGIRlss8n7ovMDedH_RyMzp8gQ7DcUxHvhaDQ_A2zmjbVT
+
+
