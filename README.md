@@ -1,14 +1,12 @@
  # SuperFunSocial
 
-<img width="947" alt="Screenshot 2024-06-14 at 11 41 26 AM" src="https://github.com/Disha1998/SFS-TON-Readme/assets/69969675/e3fbae1a-6215-4d2e-a7d7-96bd38172897">
-
 
 ## What problem we are solving?
 
-**We are solving the problem of creators who don't receive real value for their humorous content. They only get "Likes" and "reputation," and have brand deals as their only earning option, while social media platforms capture all the direct monetary value. Funny content can reach millions in no time, but creators get no tangible reward for their humor, creativity, and time investment.**
+**We are solving the problem of creators who don't receive real value for their humorous content. They only get "Likes" and "reputation," and have brand deals as their only earning option, while social media platforms capture all the direct monetary value. Funny content can reach millions in no time, but creators get no tangible reward for their humorous content and contribution towards the growth of the platform.**
 
 ## Solution
-**SuperFunSocial is a social gaming app on Farcaster & Ton where users can earn crypto rewards for creating entertaining content and playing games.**
+**SuperFunSocial is a social gaming app on Farcaster & Ton where users can earn crypto rewards for creating humorous content such as funny memes and playing games.**
 
 ## Key Features
 * **Fun Feed:** A place to view and share funny content.
@@ -137,6 +135,12 @@ receive(msg: Mint){
 <img width="479" alt="6" src="https://github.com/Disha1998/SFS-TON-Readme/assets/69969675/eadecc3a-6118-4ca8-aadf-8f9d51ca6ae1">
 
 
-
+ # Let's Connect!
+[SuperFunSocial](https://x.com/SuperFunSocial "Visit SFS's Profile")
+[Karan Pujara](https://x.com/karan_pujara "Visit Karan's Profile")
+[Dhruv Sathavara](https://x.com/Dhruv_Slat "Visit Dhruv's Profile")
+[Nirav Joshi](https://x.com/NiravJ3 "Visit Nirav's Profile")
+[Disha Sathavara](https://x.com/dishasathavara "Visit Disha's Profile")
+[Mahima Thacker](https://x.com/mahima_thacker "Visit Mahima's Profile")
 
 
