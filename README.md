@@ -1,5 +1,10 @@
  # SuperFunSocial
 
+## Product Demo:
+https://youtu.be/4FcvncrCn0A?si=atw8JhiFCdy88Fbi
+
+## Play on our Bot:
+https://web.telegram.org/k/#@SuperFunSocial_bot
 
 ## What problem we are solving?
 
